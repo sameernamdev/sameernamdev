@@ -4,7 +4,7 @@
 - 🔭 I’m a **Full Stack Developer** passionate about building web applications.  
 - 🌱 Continously learning **Spring Boot | Hibernate | ReactJS | MySQL**.  
 - 💡 Love solving coding problems and exploring new technologies.  
-- 🎯 Goal: To contribute to impactful open-source projects and build scalable apps.  
+- 🎯 Goal: To contribute to impactful open-source projects and build scalable webapps.  
 
 ---
 
